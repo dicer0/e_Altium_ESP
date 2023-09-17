@@ -2,8 +2,8 @@
 # e_Altium_ESP
 <h6 align="justify">
   <ul>
-    <li>e_ Indicates that this technology belongs to the electronics category</li>
-    <li>_ESP means that the documentation is in Spanish</li>
+    <li>e_ Indicates that this technology belongs to the electronics category.</li>
+    <li>_ESP means that the documentation is in Spanish.</li>
   </ul>
 </h6>
 And this specific repository contains documentation about the Altium software, which is used for printed circuit board's design and simulation. &nbsp;
