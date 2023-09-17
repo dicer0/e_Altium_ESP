@@ -6,7 +6,8 @@
     <li>_ESP means that the documentation is in Spanish.</li>
   </ul>
 </h6>
-And this specific repository contains documentation about the Altium software, which is used for printed circuit board's design and simulation. &nbsp;
+And this specific repository contains documentation about the Altium software, which is used for printed circuit board's design and simulation. 
+&nbsp;
 <br/>
 
 [![Altium Designer](http://dicer0.com/wp-content/uploads/2023/09/e_Altium.png)](https://dicer0.com/#skills)
